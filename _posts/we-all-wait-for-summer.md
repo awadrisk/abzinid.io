@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "We all wait for summer"
-categories: [ Jekyll, tutorial ]
+layout: page
+title:  "all wait for summer"
+categories: [tutorial]
 image: assets/images/1.jpg
 featured: true
 ---
